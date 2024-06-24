@@ -1,0 +1,10 @@
+Flask==3.0.0 
+requests==2.27.1
+scikit-learn==1.0.2
+numpy==1.21.5
+tqdm==4.63.0
+torch==1.9.0
+rich==12.0.0
+
+transformers==4.29.2
+matplotlib==3.7.1
