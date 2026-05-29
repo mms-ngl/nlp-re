@@ -11,7 +11,7 @@ Relation Extraction (RE) project for "Natural Language Processing" course.
 ### 🚀 Project setup
 
 #### Project directory
-[[Downloads]](https://drive.google.com/drive/folders/15zehfVqaSfWc4k8bogBa6VhhEW0rGopi?usp=sharing) Trained models and their associated files in er and rc folders: config.json, pytorch_model.bin, special_tokens_map.json, tokenizer.json, tokenizer_config.json, vocab.txtlabel2id.pth, model_weights.pth.
+[[Downloads]](https://drive.google.com/drive/folders/1_-sE3e2E7DArA-sqki0aGifkonpzK9Pu?usp=sharing) Trained models and their associated files in er and rc folders: config.json, pytorch_model.bin, special_tokens_map.json, tokenizer.json, tokenizer_config.json, vocab.txtlabel2id.pth, model_weights.pth.
 ```
 root
 - data
